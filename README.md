@@ -4,8 +4,7 @@
 ## b, Implisit Intent
 ## Jawaban dijelaskan dalam format video dan upload pada channel youtube masing-masing link youtube silakan diupload di ecampus
 
-## Penjelasan ada di youtube
-# Link youtube : https://youtu.be/4GUbDZZlta0
+## Penjelasan ada di youtube silahkan Klik folder Linkyoutube di atas
 
 ## A. Implicit Intent
 - Implicit Intent adalah jenis intent dalam pengembangan aplikasi Android yang digunakan untuk meminta sistem Android untuk menemukan komponen aplikasi yang dapat menangani tindakan atau permintaan tertentu tanpa menentukan komponen aplikasi secara spesifik. Dengan kata lain, implicit intent memungkinkan aplikasi berkomunikasi dengan komponen aplikasi lain tanpa mengetahui secara eksplisit nama kelas komponen tersebut.
