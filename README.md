@@ -1,6 +1,5 @@
-# Mobile5
-
-# link youtube(menyusul pak masiih kerja )
+# TugaspemrogramanMobile5
+# Buatkanlah fungsi dan manfaat dari : 
 
 ## Implicit Intent
 - Implicit Intent adalah jenis intent dalam pengembangan aplikasi Android yang digunakan untuk meminta sistem Android untuk menemukan komponen aplikasi yang dapat menangani tindakan atau permintaan tertentu tanpa menentukan komponen aplikasi secara spesifik. Dengan kata lain, implicit intent memungkinkan aplikasi berkomunikasi dengan komponen aplikasi lain tanpa mengetahui secara eksplisit nama kelas komponen tersebut.
